@@ -3,7 +3,8 @@ body {
     color: #D1E8E2;
     list-style-position: outside;
     text-align: justify;
-    max-width: 55%;
+    width: 37em;
+    # min-width: 50em;
     margin: auto;
 }
 
