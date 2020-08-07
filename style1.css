@@ -1,0 +1,27 @@
+body {
+    background-color: #2C3531;
+    color: #D1E8E2;
+    list-style-position: outside;
+    text-align: justify;
+    width: 55%;
+    margin: auto;
+}
+
+a {
+    color: #116466;
+}
+
+h1 {
+ font-size: 250%; 
+ color: #DE703C; 
+ }
+h2 {
+ font-size: 200%; 
+ color: #FBB040; 
+ padding-left: 15px;
+ }
+h3 {
+ font-size: 150%; 
+ color: #FFCB9A; 
+ padding-left: 15px;
+ }
