@@ -15,7 +15,7 @@ Everything happens in one day.
 Schedule:
 10h: Start
 
-10h10: Recall of the main concepts      
+10h10: Recall of the main concepts        
 11h50: Presentation of the case study
 
 12h10: Starting meeting
