@@ -1,14 +1,14 @@
-== Scope and security baseline ==
+= Scope and security baseline =
 
-=== Missions ===
+== Missions ==
 
 Protect the confidentiality of exchanges.
 
-=== Participants ===
+== Participants ==
 
 Director (decision maker) and vice-director who is in charge of the IT service.
 
-=== Timeframe ===
+== Timeframe ==
 
 Everything happens in one day.
 <br />
@@ -23,9 +23,15 @@ Schedule:<br />
 16h: Meeting with vice-director/Workshop 4<br />
 17h: Risks and counter-measures<br />
 
+= Perimeter =
 
-== Buisiness values ==
+== Business values ==
+
+1. Factory plans
+2. 3D virtual models
 
 == Supporting assets ==
 
+1. IT service
+2. Website
 
