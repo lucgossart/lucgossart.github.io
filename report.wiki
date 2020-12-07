@@ -1,0 +1,30 @@
+== Scope and security baseline ==
+
+=== Missions ===
+
+Protect the confidentiality of exchanges.
+
+=== Participants ===
+
+Director (decision maker) and vice-director who is in charge of the IT service.
+
+=== Timeframe ===
+
+Everything happens in one day.
+
+Schedule:
+10h: Start
+10h10: Recall of the main concepts
+11h50: Presentation of the case study
+12h10: Starting meeting
+12h40: Debriefing meting/Workshop 1
+13h00: Lunch break
+14h30: Meeting with director/Workshop 2 and 3
+16h: Meeting with vice-director/Workshop 4
+17h: Risks and counter-measures
+
+== Buisiness values ==
+
+== Supporting assets ==
+
+
