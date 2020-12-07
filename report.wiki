@@ -11,18 +11,26 @@ Director (decision maker) and vice-director who is in charge of the IT service.
 === Timeframe ===
 
 Everything happens in one day.
-$\newline$
-Schedule:$\newline$
-10h: Start$\newline$
-10h10: Recall of the main concepts$\newline$
-11h50: Presentation of the case study$\newline$
-12h10: Starting meeting$\newline$
-12h40: Debriefing meting/Workshop 1$\newline$
-13h00: Lunch break$\newline$
-14h30: Meeting with director/Workshop 2 and 3$\newline$
-16h: Meeting with vice-director/Workshop 4$\newline$
-17h: Risks and counter-measures$\newline$
-$\newline$
+
+Schedule:
+10h: Start
+
+10h10: Recall of the main concepts
+
+11h50: Presentation of the case study
+
+12h10: Starting meeting
+
+12h40: Debriefing meting/Workshop 1
+
+13h00: Lunch break
+
+14h30: Meeting with director/Workshop 2 and 3
+
+16h: Meeting with vice-director/Workshop 4
+
+17h: Risks and counter-measures
+
 == Buisiness values ==
 
 == Supporting assets ==
