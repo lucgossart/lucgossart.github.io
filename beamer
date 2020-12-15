@@ -1,0 +1,63 @@
+\documentclass[xcolor={usenames, dvipsnames, x11names}]{beamer}
+% \usepackage{color}
+% \usepackage[usenames, dvipsnames, x11names]{xcolor}
+\usepackage{dsfont}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{upgreek}
+\usetheme{CambridgeUS}
+\usecolortheme{dolphin}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\newcommand{\fonction}[5]{#1 :\left\{\begin{array}{rcl} #2 &
+\longrightarrow & #3\\ #4 & \longmapsto & #5\\
+  \end{array}
+\right.}
+%Information to be included in the title page:
+\title{Titre de l'exposé}
+\author{Prénom Nom}
+\institute{Ensimag/UGA}
+\date{\today}
+
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\begin{frame}
+	\tableofcontents
+	\frametitle{Table of contents}
+\end{frame}
+
+\section{Introduction}
+
+
+
+
+
+
+\begin{frame}
+	\frametitle{Titre de la slide}
+  Texte
+	\begin{columns}
+		\begin{column}{.5\textwidth}
+			\begin{block}{Block}
+				\begin{enumerate}
+					\item $\mathcal C^\infty(M)\subset \mathcal H_\varepsilon \subset
+						\mathcal D'(M)$,
+					\item The essential spectral radius of $\mathcal L$ in $\mathcal
+						H_\varepsilon$ is at most $\varepsilon$.
+				\end{enumerate}
+			\end{block}
+		\end{column}	
+		\begin{column}{.5\textwidth}
+			Colonne 2
+		\end{column}
+	\end{columns}
+\end{frame}
+
+
+\end{document}
