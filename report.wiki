@@ -1,3 +1,4 @@
+
 = Workshop 1 =
 
 == Scope and security baseline ==
@@ -52,14 +53,12 @@ Restrict perimeter to confidentiality
 
 == Feared events ==
 
-1. k
-2. 3. 
-3. Spyware installed on computers (keep for threat scenario? 4th workshop)          IMPACT: Factory plans models and customers private data can be stolen GRAVITY: 3
-4. Violation of integrity of calculations, generation of wrong plans   IMPACT: Buildings might collapse, some refactoring might be necessary, additional costs and delays GRAVITY: 4
-5. Liability issues relative to the manipulation of private data of    IMPACT: Fine, lawsuits, negative impact on the brand    GRAVITY: 3
+3. Spyware installed on computers (keep for threat scenario? 4th workshop)          IMPACT: Factory plans models and customers private data can be stolen SEVERITY: 3
+4. Violation of integrity of calculations, generation of wrong plans   IMPACT: Buildings might collapse, some refactoring might be necessary, additional costs and delays SEVERITY: 4
+5. Liability issues relative to the manipulation of private data of    IMPACT: Fine, lawsuits, negative impact on the brand    SEVERITY: 3
 	 clients (be more specific)                                          
-6. Robbery due to lack of control system (threat scenario?)            IMPACT: Loss of marketshares, fine (stealth of personal data of clients) GRAVITY: 3
-7. Loss of marketshares due to spying and lack of confidentiality      IMPACT: Decline in revenue GRAVITY: 2
+6. Robbery due to lack of control system (threat scenario?)            IMPACT: Loss of marketshares, fine (stealth of personal data of clients) SEVERITY: 3
+7. Loss of marketshares due to spying and lack of confidentiality      IMPACT: Decline in revenue SEVERITY: 2
 
 
 1. Leak of factory plan...
@@ -88,10 +87,14 @@ Keep 1. and 2.
 
 == Threat scenarios ==
 
-1. Spyware installed on computers (Competitors send malicious emails) GRAVITY: 3
-2. Theft of computers/laptops (Competitor, unrelated robbers) GRAVITY: 3
-3. Employee sells secret data about project GRAVITY: 2
-4. Network access gained by competitors GRAVITY: 3
+(Put in a table)
+
+2. Spyware installed on computers (Competitors send malicious emails)
+	 SEVERITY: 3 PROBABILITY: 2
+3. Theft of computers/laptops (Competitor, unrelated robbers) SEVERITY:
+	 3 PROBABILITY: 1 
+4. Employee sells secret data about project SEVERITY: 2 PROBABILITY: 1 
+5. Network access gained by competitors SEVERITY: 3 PROBABILITY: 1 
 
 == Security measures == 
 
@@ -102,27 +105,33 @@ Keep 1. and 2.
 
 = Workshop 4: Operational scenarios =
 
-1. Competitor bribes an eager employee and gets access to some confidential data       OVERALL LIKELIHOOD: 
-2. The closet containing the USB drives gets forced open by the cleaning service, hired by the competitors, and the files are disclosed   OVERALL LIKELIHOOD:
+1. Competitor bribes an eager employee and gets access to some
+	 confidential data       OVERALL LIKELIHOOD: 2 (SEVERITY: 3)
+2. The closet containing the USB drives gets forced open by the
+	 cleaning service, hired by the competitors, and the files are
+	 disclosed   OVERALL LIKELIHOOD: 1 (SEVERITY: 4)
+3. Some employee having access to confidential data opens a phishing
+	 email sent by a hacker OVERALL LIKELIHOOD: 3 (SEVERITY: 3)
 
 
-= Workshop 5: =
+= Workshop 5: Risk treatment =
 
-Now evaluate in terms of motivations and resources
-Be selective and keep short perimeter
-Identify and evaluate stake holders and identify threat scenario
-Focus today on one or two scenarios
+| Risk source         | Objectives                   | Severity | Mode of operation            | Likelihood |
+| Employee/Competitor | Revenge (mettre deux lignes) | 3        | Use of credentials (bribing) | 2          |
+| Cleaning service    | Money                        | 4        | Physical theft               | 1          |
+| Hacker              | Money                        | 3        | Phishing                     | 3          |
 
-= Questions for Rémi =
+{{}}
 
-1. How to evaluate residual threat?
-2. Does it indicate a percentage of what is remaining?
-3. What is expected about operational scenarios?
-4. Should we put more operational scenarios in the final report?
+ In this workshop we were able to identify some of the risks and threat
+ scenarios that could happen to the company presented in the case study. In the
+ table above we classified the previously discussed threat scenarios according
+ to its gravity and likelihood, in order to better understand the overall risk
+ of each of each scenario. We the presented scale we can conclude that the  R-
+ is the worst threat and R- the least. In workshop 3 we discussed some measures
+ that could help the company prevent such threats.
 
-5. What do they fear? Losing money, contracts (by access to data and technologies)
-6. How specific do we need to be about the attacks etc.? As specific as possible (workshop 4)
-7. What liability issues might the company have? Problems come from personal data, conversations
-8. Keep integrity? No
-9. Should we add something in the beginning about norms, GDPR...? no
+
+
+
  
